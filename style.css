@@ -595,6 +595,12 @@ section{
 }
 
 
+.footer .container .line h3{
+    margin: auto;
+    align-items: center;
+}
+
+
 @media(max-width:768px){
     #menu-bar{
         display: initial;
@@ -621,6 +627,7 @@ section{
         background: #fff;
     }
 }
+
 
 
 @media(max-width:450px){
